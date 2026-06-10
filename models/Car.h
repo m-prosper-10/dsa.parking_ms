@@ -7,6 +7,8 @@
 
 
 class Car {
+    public:
+    Car();
 };
 
 
